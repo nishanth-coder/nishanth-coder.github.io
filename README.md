@@ -2,4 +2,4 @@
 
 [my git hub profile:](https://github.com/nishanth-coder)
 
-<img src='./screenshot(1).png'>
+<img src='./Screenshot (1).png'>
